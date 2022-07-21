@@ -11,5 +11,5 @@ npm install -g json-server
 Start JSON Server
 
 ```bash
-json-server --watch db.json
+json-server --nc --watch db.json
 ```
