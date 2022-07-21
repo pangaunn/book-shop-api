@@ -4,7 +4,7 @@
             "id": 9001, "type": "MULTI_HARRY", "name": "Buy multiple harry potter volume", "targetIds": [10001, 10002, 10003, 10004, 10005, 10006, 10007], "discounts": ["10.00", "15.00", "20.00", "25.00", "30.00", "70.00"]
         },
         {
-            "id": 9002, "type": "3_FREE_1", "name": "Buy 3 free 1", "targetIds": [10008, 10009, 100010, 10011, 10012, 10013, 10014]
+            "id": 9002, "type": "3_FREE_1", "name": "Buy 3 free 1", "targetIds": [10008, 10009, 10010, 10011, 10012, 10013, 10014]
         }
     ],
     "books": [
